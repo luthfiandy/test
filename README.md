@@ -1,2 +1,2 @@
 # test
-aplikasi coba-coba ngab
+aplikasi coba-coba
